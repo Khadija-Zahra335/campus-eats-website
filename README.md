@@ -11,8 +11,8 @@ Campus Eats is a food ordering website for university students at PUCIT. Student
 | Deliverable | Link |
 |---|---|
 | 🎨 Figma Design | https://www.figma.com/design/qiJyvjgP0ljIIeJB5wdI39/HCI-Lab-6?node-id=15-288 |
-| 🌐 Live Website | [paste your Vercel link here] |
-| 💻 GitHub Repository | [paste your GitHub repo link here] |
+| 🌐 Live Website | [https://campus-eats-website.vercel.app/] |
+| 💻 GitHub Repository | [https://github.com/Khadija-Zahra335/campus-eats-website] |
 
 ---
 
